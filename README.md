@@ -35,5 +35,23 @@ A recent extreme case where the U.S. governments chose to place the existance of
 
 # Section 3: Current ethics examples
 ### Discussion in 3.2.1
+Some inequalities and conflicts that arrised in Emerging Code of Ethics for Disaster Relief are that though lesser known cities or places do not receive the same amount of care as those places who do, some times people who come to help aren't culturally knowledgable about how the area operates, and larger known places receive more funding for disasters. I find this odd since a fire anywhere, causes the same damage and thus should be given the same amount of care and respect to treat it. 
 
 ### Discussion in 3.2.2
+Ethical issues brought up by the COVID-19 Pandemic could be of: 
+1) Enforcing stay at home orders to those who are not afraid
+2) Choosing between staying at home to protect the people from illness and/or death or allowing citizens to continue on with their lives and care for themselves
+3) The closing of businesses to practice being safe, causes many to lose their jobs and have trouble paying bills or buying food
+
+# Section $: Engineering ethics
+### Writing on item 4.2.1
+
+### Writing on item 4.2.2
+
+### Writing on item 4.2.3
+
+### Writing on item 4.2.4
+
+### Writing on item 4.2.5
+
+### Writing on item 4.2.6
