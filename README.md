@@ -28,7 +28,7 @@ I believe Aristotle places the burden of reponsibilty on practical wisdom. He be
 
 # Section 2: Applied ethics
 ### Answer to 2.2.2 
-If all people were ethical in all their interactions, we would obviate officials or agencies that give us the ethical rules to follow. 
+If all people were ethical in all their interactions, we would obviate lawmakers that give us the ethical rules to follow, because we wouldn't be causing chaos amongst each other. 
 
 ### Discussion for 2.2.3
 A recent extreme case where the U.S. governments chose to place the existance of the country ahead of the countries individualistic needs was with the COVID-19 Pandemic. I would prefer to favor the group over the interests on individuals, but my idea on balancing proves to be rather unethical. Those who want to continue their lives back to normal, should be allowed to so long as they continue to wear masks and be sanitary. I know of a few individuals who would rather risk their life as well and lives of the members around them because they hate how they can't properly breathe in masks. The best I can come up with is letting people do what they want. Some believe they're being abused or tortured by Stay-at-home orders and others are putting the public ahead of them by staying at home. It's a tough situation, much like assisted suicides by doctors. 
