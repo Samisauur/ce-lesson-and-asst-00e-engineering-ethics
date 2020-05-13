@@ -64,9 +64,31 @@ Ethics are moral principles that guide a person's behavior or activities. When p
 
 # Section 5: Codes of Conduct
 ### Writing on item 5.2.1
+Defection causes prisoner's dilemma to arrise in situations where a group of one or more people are each given a deal to betray another for personal gain. To remove the attractive levels of prisoner's dilemma, I would create a code stating that being selfish can bring you worse consequences. 
 
 ### Writing on item 5.2.2
+If I were a co-founder of a recent computational technology startup, we would work on creating AI-like/bionic body parts for individuals who would be missing limbs or create bionic braces to assist those who are injured. Our technology would wire into the brain to allow its user to feel whatever touches their bionic limb. 3 adverse effects that could come from it would be: 
+1) Hackers being able to hack in an manipulate the way human the human acts because it is wired to the brian
+2) Malfunction due to weather which could result in hurting the user
+3) Misuse of the bionic limb for the purpose of crime, for example: if you had a bionic hand, authorities would have trouble tracing finger prints
+To combat 1: I would make it mandatory to share your limbs data and give a set team or ethical hackers to watch and set alarms for any unauthorized activity or changes. 
+To combat 2: I would have a team designated to thorough testing as well as occasional check-ups to ensure everything is working as it should.
+To combat 3: Create a terms and agreement that allows your bionic limb to track where you have been and state that we will work with the officials if they supply enough evidence to suspect the user.
+
 
 ### Writing on item 5.2.3
 
 ### Writing on item 5.2.4
+The Code of Ethics for my organization would look like: 
+1. 
+2.
+3.
+4.
+5.
+6.
+
+### Challenge
+I were on a team to sabotage the original team I would remove or modify these 3 points from The Code: 
+#
+#
+#
