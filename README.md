@@ -75,20 +75,24 @@ To combat 1: I would make it mandatory to share your limbs data and give a set t
 To combat 2: I would have a team designated to thorough testing as well as occasional check-ups to ensure everything is working as it should.
 To combat 3: Create a terms and agreement that allows your bionic limb to track where you have been and state that we will work with the officials if they supply enough evidence to suspect the user.
 
+Upon immediately launching my company, a fine line between the benifit and detriment of my innovation would be a lot of backlash from communities that would fear that the product connects to the brain. They would fear how much power the authorities and hackers could have over an individual as well as possible rights taken by the tracking involved. 
+A fine line between benifit and detriment of my innovation after time has passed would be other companies stealing my technology and using it to create their own product, thus, I run the risk of being driven off by competition. 
 
 ### Writing on item 5.2.3
+To ensure I stay the course, I'd probably go back to therapy to deal with the anxiety and stress of starting a business that some may find harmful. I'd also try to stay closely connected to my co-founders and few key employees, so that I can get the feeling of how important it is to stay the course. More than my life is on the line. 
 
 ### Writing on item 5.2.4
 The Code of Ethics for my organization would look like: 
-1. 
-2.
-3.
-4.
-5.
-6.
+1. Be respectful
+2. Respect privacy
+3. Be patient and friendly
+4. Welcome changes
+5. Be honest and trustworthy
+6. Contribute to society and to human well-being
 
 ### Challenge
-I were on a team to sabotage the original team I would remove or modify these 3 points from The Code: 
-#
-#
-#
+If I were on a team to sabotage the original team, I would remove or modify these 3 points from The Code: 
+  - #3 Be patient and friendly would be removed; this causes people to start arguments amongst each other and creates an unhealthy     work environment
+  - #5 Be honest and trustworthy would be removed; the organization could lie or give away false information that could lead to       delays in products being produces or even cause harm to customers with malfunctioning products
+  - #6 Contribute to society and to human well-being could be changed to: Contribute to society and to human well-being even if it     causes suffering; this could infringe on human rights and force many to participate in things that are harmful or                 uncomfortable
+The original team could have forestalled the sabotage by creating consequences such as banning and avoiding those who attempt to change it. It would have also helped if they could think ethically on their own so that everyone understand The Code as a way to be at all times when working with this organization. 
