@@ -43,7 +43,7 @@ Ethical issues brought up by the COVID-19 Pandemic could be of:
 2) Choosing between staying at home to protect the people from illness and/or death or allowing citizens to continue on with their lives and care for themselves
 3) The closing of businesses to practice being safe, causes many to lose their jobs and have trouble paying bills or buying food
 
-# Section $: Engineering ethics
+# Section 4: Engineering ethics
 ### Writing on item 4.2.1
 
 ### Writing on item 4.2.2
