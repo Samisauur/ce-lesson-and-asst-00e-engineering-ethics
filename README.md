@@ -95,4 +95,5 @@ If I were on a team to sabotage the original team, I would remove or modify thes
   - #3 Be patient and friendly would be removed; this causes people to start arguments amongst each other and creates an unhealthy     work environment
   - #5 Be honest and trustworthy would be removed; the organization could lie or give away false information that could lead to       delays in products being produces or even cause harm to customers with malfunctioning products
   - #6 Contribute to society and to human well-being could be changed to: Contribute to society and to human well-being even if it     causes suffering; this could infringe on human rights and force many to participate in things that are harmful or                 uncomfortable
+
 The original team could have forestalled the sabotage by creating consequences such as banning and avoiding those who attempt to change it. It would have also helped if they could think ethically on their own so that everyone understand The Code as a way to be at all times when working with this organization. 
