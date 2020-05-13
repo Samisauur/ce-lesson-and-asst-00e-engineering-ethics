@@ -57,6 +57,16 @@ According to the article on Data Ethics from the Royal Society, social acceptabi
 A technical conference such as THe Internation Conference on Machine Learning (ICML) would need it's own Code of Coduct because we're all human and allow our emotions to get the better of us. Everyone has their own way of thinking and learning, so when you create a conference to exchange ideas, have the freedom of thought and expression, and bring scientists together to debate, so may run into disagreements or violence.
 
 ### Writing on item 4.2.5
-
+In Principles of AI Development at Google, Google appears to be concerned with the risks of AI being misused. They seem to be encouraging policy makers to establish a frameworkd that will underpin AI's development. 
 
 ### Writing on item 4.2.6
+Ethics are moral principles that guide a person's behavior or activities. When practicing ethical behaviors, we generally place the goods or rights of the world and its inhabitants first. Hacking is when someone breaches someone's data in order to collect data. Hacking is unethical for the most part. We could combine ethics and hacking to create ethical hacking. A hacker could use their abilities to breach so the good of a company such as warding off negative impacting hackers. 
+
+# Section 5: Codes of Conduct
+### Writing on item 5.2.1
+
+### Writing on item 5.2.2
+
+### Writing on item 5.2.3
+
+### Writing on item 5.2.4
