@@ -45,13 +45,18 @@ Ethical issues brought up by the COVID-19 Pandemic could be of:
 
 # Section 4: Engineering ethics
 ### Writing on item 4.2.1
+After reading ACM'S Code of Ethics, I've come to realize they had to create this specific code for engingeers to avoid harmful work that could impact the public, the company, and privacys. When signing up for this class, I always invisioned myself being like the cartoon character Jimmy Nuetron, working in my lab to make fun projects. Not once had I considered how people can use computer science/engineering for evil. 
 
 ### Writing on item 4.2.2
+Microsoft's Open Source Code of Conduct addresses ethical behaviors that are expected in Microsoft-managed open source communities. I believe their most important element of ethical behavior is to understand disagreements and resolve them constructively. An OSS from Microsoft we have been using is Microsoft Teams. 
 
 ### Writing on item 4.2.3
+According to the article on Data Ethics from the Royal Society, social acceptability or social preferability must be guiding prinicples for any data science. When working with data science, we must ensure the respect of human rights. 
 
 ### Writing on item 4.2.4
+A technical conference such as THe Internation Conference on Machine Learning (ICML) would need it's own Code of Coduct because we're all human and allow our emotions to get the better of us. Everyone has their own way of thinking and learning, so when you create a conference to exchange ideas, have the freedom of thought and expression, and bring scientists together to debate, so may run into disagreements or violence.
 
 ### Writing on item 4.2.5
+
 
 ### Writing on item 4.2.6
